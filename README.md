@@ -33,11 +33,16 @@ To get started with the Odin Recipes project, follow these steps:
    ```bash
    git clone https://github.com/Telesphore-Uwabera/odin-recipes.git
 
-Open the index.html file in your web browser to view the list of available recipes.
+1. Open the index.html file in your web browser to view the list of available recipes.
+   
 Usage
-Lasagna
-Description: This is a traditional and easy-to-make russet potato salad recipe.
-Ingredients:
+
+**Lasagna**
+
+**Description:** This is a traditional and easy-to-make russet potato salad recipe.
+
+**Ingredients:**
+
 pounds russet potatoes
 1 cup mayonnaise
 4 teaspoons sweet pickle relish
@@ -51,12 +56,18 @@ pounds russet potatoes
 ¼ teaspoon dried parsley
 ¼ teaspoon ground black pepper
 Salt to taste
-Directions:
+
+**Directions:**
+
 Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool, and chop.
 In a large bowl, combine potatoes, mayonnaise, sweet pickle relish, sugar, onion, mustard, vinegar, celery, pimentos, carrot, parsley, pepper, and salt. Mix well, chill, and serve.
-Beautina
-Description: This chunky watermelon feta salad with arugula and tomatoes is enjoyed by all.
-Ingredients:
+
+**Beautina**
+
+**Description:** This chunky watermelon feta salad with arugula and tomatoes is enjoyed by all.
+
+**Ingredients:**
+
 3 tablespoons olive oil
 2 teaspoons white balsamic vinegar
 ½ teaspoon kosher salt
@@ -65,11 +76,17 @@ Ingredients:
 1 cup sliced red onion
 2 pounds watermelon, cubed
 4 ounces feta cheese, cut into 1/4-inch cubes
-Directions:
+
+**Directions:**
+
 Whisk olive oil, vinegar, and salt together in a large mixing bowl. Add tomatoes, arugula, and red onion; toss to coat. Gently stir in watermelon and feta cheese to serve.
-Prettina
+
+**Prettina**
+
 Description: This corn salad is quick, wholesome, and perfect for summer. No cooking required! Uses fresh, raw, sweet corn on the cob, tomato, cucumber, and avocado, but it's easy to tailor to your taste.
-Ingredients:
+
+**Ingredients:**
+
 2 ears corn, kernels cut from the cob
 1 pint cherry tomatoes, halved
 1 cucumber, halved lengthwise and sliced
@@ -80,7 +97,9 @@ Ingredients:
 1 drizzle extra-virgin olive oil
 1 lime, juiced
 Salt and ground black pepper to taste
-Directions:
+
+**Directions:**
+
 Mix corn kernels, tomatoes, cucumber, avocado, onion, cilantro, and green onion together in a large bowl.
 Add a drizzle of olive oil. Squeeze lime juice into the bowl and season with salt and pepper.
 Contributing
